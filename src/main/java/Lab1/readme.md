@@ -1,3 +1,3 @@
 Hello, world!
 
-![screenshot.png](screenshot.png)
+![screenshot.png](../../../../screenshot.png)
